@@ -1,0 +1,6 @@
+{
+  "name": "College Fees Manager",
+  "description": "Comprehensive college fees management system for students and administrators to track dues, process online payments, generate digital receipts, and view financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
